@@ -1,0 +1,15 @@
+import java.util.Scanner;
+Public class Simpleinterest
+{
+Public static void main(String args[])
+{
+int p=50000;
+float r=2.5;
+int t=1;
+public void sinterest()
+{
+sinterest=(p*r*t)/100;
+System.out.println("the simple intrest is:"+sinterest);
+}
+}
+}
